@@ -14,3 +14,13 @@ My Deep Learning journey as a Computational Biologists
 * [王木头学科学](https://www.youtube.com/watch?v=GGLr-TtKguA&t=3569s)  
   This is a chinese channel. It explains how attention works to understand language very well. He uses a few examples to help understand the importance of each matrice.  
 
+## Transformer based foundation models in genomics and drug R&D
+* Single cell data integration
+  - [scGPT](https://www.nature.com/articles/s41592-024-02201-0)
+  - [Virtual cell from CZI](https://chanzuckerberg.com/science/technology/virtual-cells/)
+* DNA 
+  - [DNABERT](https://github.com/MAGICS-LAB/DNABERT_2/tree/main)
+* RNA
+  - [RNAErnie](https://www.nature.com/articles/s42256-024-00836-4)
+* Protein
+  - [ESMFold](https://www.science.org/doi/10.1126/science.ade2574)
