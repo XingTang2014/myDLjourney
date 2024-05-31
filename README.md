@@ -26,7 +26,8 @@ My Deep Learning journey as a Computational Biologists
   - [ESMFold](https://www.science.org/doi/10.1126/science.ade2574)
  
 ## Resources to learn cheminformatics
-* [kMoL](https://github.com/elix-tech/kmol)
-  - A machine learning library for drug discovery and life sciences
-* [DeepChem](https://github.com/deepchem/deepchem?tab=readme-ov-file)
-  - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
+* kMoL: A machine learning library for drug discovery and life sciences
+  - [repository](https://github.com/elix-tech/kmol)
+* DeepChem: Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
+  - [repository](https://github.com/deepchem/deepchem?tab=readme-ov-file)
+  - [tutorial]https://deepchem.io/tutorials/the-basic-tools-of-the-deep-life-sciences/
