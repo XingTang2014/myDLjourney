@@ -30,4 +30,4 @@ My Deep Learning journey as a Computational Biologists
   - [repository](https://github.com/elix-tech/kmol)
 * DeepChem: Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
   - [repository](https://github.com/deepchem/deepchem?tab=readme-ov-file)
-  - [tutorial]https://deepchem.io/tutorials/the-basic-tools-of-the-deep-life-sciences/
+  - [tutorial](https://deepchem.io/tutorials/the-basic-tools-of-the-deep-life-sciences/)
