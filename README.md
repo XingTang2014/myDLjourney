@@ -31,3 +31,4 @@ My Deep Learning journey as a Computational Biologists
 * DeepChem: Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
   - [repository](https://github.com/deepchem/deepchem?tab=readme-ov-file)
   - [tutorial](https://deepchem.io/tutorials/the-basic-tools-of-the-deep-life-sciences/)
+  - [Discord Group](https://discord.gg/ZEnV6Kr2pe)
