@@ -24,3 +24,9 @@ My Deep Learning journey as a Computational Biologists
   - [RNAErnie](https://www.nature.com/articles/s42256-024-00836-4)
 * Protein
   - [ESMFold](https://www.science.org/doi/10.1126/science.ade2574)
+ 
+## Resources to learn cheminformatics
+* [kMoL](https://github.com/elix-tech/kmol)
+  - A machine learning library for drug discovery and life sciences]
+* [DeepChem](https://github.com/deepchem/deepchem?tab=readme-ov-file)
+  - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology]
