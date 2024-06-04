@@ -34,4 +34,6 @@ My Deep Learning journey as a Computational Biologists
   - [Discord Group](https://discord.gg/ZEnV6Kr2pe)
 
 ## AI labs in bio field
-* [James J. Collins](https://www.collinslab.mit.edu/) 
+* [James J. Collins](https://www.collinslab.mit.edu/)
+  - [Analyzing Learned Molecular Representations for Property Prediction, Journal of Chemical Information and Modeling 2019](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237)
+    This paper applies graph neural networks to molecular property prediction
