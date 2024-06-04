@@ -37,3 +37,4 @@ My Deep Learning journey as a Computational Biologists
 * [James J. Collins](https://www.collinslab.mit.edu/)
   - [Analyzing Learned Molecular Representations for Property Prediction, Journal of Chemical Information and Modeling 2019](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237)
     This paper applies graph neural networks to molecular property prediction
+  - [Leveraging artificial intelligence in the fight against infectious diseases](https://www.science.org/doi/10.1126/science.adh1114) A nice review summarize application of AI in therapeutics 
