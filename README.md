@@ -24,6 +24,9 @@ My Deep Learning journey as a Computational Biologists
   - [RNAErnie](https://www.nature.com/articles/s42256-024-00836-4)
 * Protein
   - [ESMFold](https://www.science.org/doi/10.1126/science.ade2574)
+
+## Resources to learn graph neural network
+* [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
  
 ## Resources to learn cheminformatics
 * kMoL: A machine learning library for drug discovery and life sciences
