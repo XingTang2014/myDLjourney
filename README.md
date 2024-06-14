@@ -12,7 +12,8 @@ My Deep Learning journey as a Computational Biologists
 * 3Blue1Brown [Attention in transformers, visually explained](https://www.youtube.com/watch?v=eMlx5fFNoYc)  
   This explains the K,Q,V in more detail in some great virtual vissualization. I finally understand the dimensions and meanings of K,Q,V clearly.
 * [王木头学科学](https://www.youtube.com/watch?v=GGLr-TtKguA&t=3569s)  
-  This is a chinese channel. It explains how attention works to understand language very well. He uses a few examples to help understand the importance of each matrice.  
+  This is a chinese channel. It explains how attention works to understand language very well. He uses a few examples to help understand the importance of each matrice.
+* [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch/tree/main)
 
 ## Transformer based foundation models in genomics and drug R&D
 * Single cell data integration
