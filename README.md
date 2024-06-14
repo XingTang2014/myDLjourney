@@ -22,7 +22,7 @@ My Deep Learning journey as a Computational Biologists
   - [DNABERT](https://github.com/MAGICS-LAB/DNABERT_2/tree/main)
 * RNA
   - [RNAErnie](https://www.nature.com/articles/s42256-024-00836-4)
-  - [Efficient evolution of human antibodies from general protein language models](https://www.nature.com/articles/s41587-023-01763-2) [related notebook](https://colab.research.google.com/drive/18XN_8H0Bs7F_2sSY8yO6s8gbm7x2l_Xe?usp=sharing#scrollTo=zPsqCjLV3Bbd)
+  - [Efficient evolution of human antibodies from general protein language models](https://www.nature.com/articles/s41587-023-01763-2) , [related notebook](https://colab.research.google.com/drive/18XN_8H0Bs7F_2sSY8yO6s8gbm7x2l_Xe?usp=sharing#scrollTo=zPsqCjLV3Bbd)
 * Protein
   - [ESMFold](https://www.science.org/doi/10.1126/science.ade2574)
 
