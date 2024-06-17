@@ -1,6 +1,9 @@
 # myDLjourney
 My Deep Learning journey as a Computational Biologists
 
+## Learn python
+* [codefinity](https://codefinity.com/)
+
 ## Resourses that I use to learn transformer
 * Coursera [attention-models-in-nlp](https://www.coursera.org/learn/attention-models-in-nlp/)  
   It introduces basic elements of transformer in a hard way at the first week. But you won't be able to have a deep understanding about transformer from it.
