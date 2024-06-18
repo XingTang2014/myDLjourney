@@ -32,6 +32,7 @@ My Deep Learning journey as a Computational Biologists
 
 ## Resources to learn graph neural network
 * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+* [Neo4j LifeScience Workshop 2024](https://www.youtube.com/watch?v=k8It3_um-sY)
  
 ## Resources to learn cheminformatics
 * kMoL: A machine learning library for drug discovery and life sciences
