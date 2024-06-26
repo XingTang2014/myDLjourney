@@ -44,9 +44,11 @@ My Deep Learning journey as a Computational Biologists
   - [Discord Group](https://discord.gg/ZEnV6Kr2pe)
 
 ## AI labs in bio field
-* [James J. Collins](https://www.collinslab.mit.edu/)
+* [James J. Collins from MIT](https://www.collinslab.mit.edu/)
   - [Analyzing Learned Molecular Representations for Property Prediction, Journal of Chemical Information and Modeling 2019](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00237)
     This paper applies graph neural networks to molecular property prediction
   - [Leveraging artificial intelligence in the fight against infectious diseases](https://www.science.org/doi/10.1126/science.adh1114) A nice review summarize application of AI in therapeutics 
-* [Xiaolin Cheng](https://tdai.osu.edu/people/cheng.1302)
+* [Zhiyong Lu from NCBI](https://www.ncbi.nlm.nih.gov/research/bionlp)
+  - [Tracking genetic variants in the biomedical literature using LitVar 2.0](https://www.nature.com/articles/s41588-023-01414-x)
+* [Xiaolin Cheng from The Ohio State University](https://tdai.osu.edu/people/cheng.1302)
   - [Design of target specific peptide inhibitors using generative deep learning and molecular dynamics simulations](https://www.nature.com/articles/s41467-024-45766-2)
