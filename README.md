@@ -49,3 +49,4 @@ My Deep Learning journey as a Computational Biologists
     This paper applies graph neural networks to molecular property prediction
   - [Leveraging artificial intelligence in the fight against infectious diseases](https://www.science.org/doi/10.1126/science.adh1114) A nice review summarize application of AI in therapeutics 
 * [Xiaolin Cheng](https://tdai.osu.edu/people/cheng.1302)
+  - [Design of target specific peptide inhibitors using generative deep learning and molecular dynamics simulations](https://www.nature.com/articles/s41467-024-45766-2)
