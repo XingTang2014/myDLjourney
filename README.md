@@ -22,6 +22,7 @@ My Deep Learning journey as a Computational Biologists
 * Single cell data integration
   - [scGPT](https://www.nature.com/articles/s41592-024-02201-0)
   - [Virtual cell from CZI](https://chanzuckerberg.com/science/technology/virtual-cells/)
+  - [Large-scale foundation model on single-cell transcriptomics](https://www.nature.com/articles/s41592-024-02305-7)
 * DNA 
   - [DNABERT](https://github.com/MAGICS-LAB/DNABERT_2/tree/main)
 * RNA
