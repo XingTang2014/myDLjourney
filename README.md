@@ -50,5 +50,6 @@ My Deep Learning journey as a Computational Biologists
   - [Leveraging artificial intelligence in the fight against infectious diseases](https://www.science.org/doi/10.1126/science.adh1114) A nice review summarize application of AI in therapeutics 
 * [Zhiyong Lu from NCBI](https://www.ncbi.nlm.nih.gov/research/bionlp)
   - [Tracking genetic variants in the biomedical literature using LitVar 2.0](https://www.nature.com/articles/s41588-023-01414-x)
+  - [GitHub repository](https://github.com/ncbi-nlp)
 * [Xiaolin Cheng from The Ohio State University](https://tdai.osu.edu/people/cheng.1302)
   - [Design of target specific peptide inhibitors using generative deep learning and molecular dynamics simulations](https://www.nature.com/articles/s41467-024-45766-2)
