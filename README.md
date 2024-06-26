@@ -53,3 +53,7 @@ My Deep Learning journey as a Computational Biologists
   - [GitHub repository](https://github.com/ncbi-nlp)
 * [Xiaolin Cheng from The Ohio State University](https://tdai.osu.edu/people/cheng.1302)
   - [Design of target specific peptide inhibitors using generative deep learning and molecular dynamics simulations](https://www.nature.com/articles/s41467-024-45766-2)
+ 
+## AI companies in bio field
+* [Genomenon: Genomic Intelligence for Rare Disease and Cancer](https://www.genomenon.com/about/)
+  - [Mastermind: A Comprehensive Genomic Association Search Engine for Empirical Evidence Curation and Genetic Variant Interpretation](https://pubmed.ncbi.nlm.nih.gov/33281875/)
